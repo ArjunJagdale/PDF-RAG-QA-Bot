@@ -42,11 +42,17 @@ This project is an interactive Retrieval-Augmented Generation (RAG) app that all
 
 ## 4. Screenshots
 
-Resume Check:
+**Resume Check:**
+
 ![Screenshot 2025-06-30 154937](https://github.com/user-attachments/assets/066b8c0d-392c-4c9e-95e3-e5ae4e64520a)
 
-Project management PDF check:
+**Project management PDF check:**
+
 ![image](https://github.com/user-attachments/assets/a2c839dc-fb3e-4e7d-a5f7-259ebaa59c3e)
+
+![image](https://github.com/user-attachments/assets/0a8ffd14-7077-4c2b-9ee5-e02e15d745cf)
+
+
 
 
 
