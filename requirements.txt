@@ -1,0 +1,9 @@
+gradio
+transformers
+langchain>=0.3,<0.4
+langchain-community>=0.3,<0.4
+langchain-text-splitters>=0.3,<0.4
+sentence-transformers
+faiss-cpu
+PyPDF2
+pypdf
