@@ -1,4 +1,4 @@
-# PDF RAG QA Bot
+# RAG QA Bot LangChain v0.3
 
 ---
 
