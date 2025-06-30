@@ -1,10 +1,11 @@
-# PDF RAG QA Bot ([View on Hugging Face Spaces](https://huggingface.co/spaces/ArjunJagdale/pdf-rag-qa-bot))
+# PDF RAG QA Bot
 
 ---
 
 ## Summary
 
-[**Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/ArjunJagdale/pdf-rag-qa-bot)
+[**Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/ArjunJagdale/pdf-rag-qa-bot) 
+If you cannot access the hosted demo, you can clone the repo and host it on HF spaces with your inference access token added in secret variables. For example in my code the (HF_TOKEN) key mentioned is the key for inference token's value.
 
 This project is an interactive Retrieval-Augmented Generation (RAG) app that allows users to upload a PDF and ask questions about its contents. The app uses LangChain and Hugging Face models to intelligently retrieve relevant information from the document and generate accurate answers.
 
